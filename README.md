@@ -1,7 +1,7 @@
 # mame
-----
-##_Contributing to the intellectual entertainment jargon ca. 2017_
-----
+
+_contributing to the intellectual entertainment jargon ca. 2017_
+
 
 - [Deep learning study material](https://github.com/amiralansary/DLSM)
 - [Phonological Pun-derstanding talk](http://techtalks.tv/talks/phonological-pun-derstanding/62274/)
