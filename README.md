@@ -28,3 +28,5 @@
 - [_Attention and Augmented Recurrent Neural Networks_](http://distill.pub/2016/augmented-rnns/)
 
 - [2003 tutorial on LSTM's](http://people.idsia.ch/~juergen/lstm2003tutorial.pdf)
+
+- [Generative Adversarial Networks _for dummies_](https://hackernoon.com/how-do-gans-intuitively-work-2dda07f247a1)
