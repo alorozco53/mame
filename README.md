@@ -30,3 +30,7 @@
 - [2003 tutorial on LSTM's](http://people.idsia.ch/~juergen/lstm2003tutorial.pdf)
 
 - [Generative Adversarial Networks _for dummies_](https://hackernoon.com/how-do-gans-intuitively-work-2dda07f247a1)
+
+- [Tensor talk](https://tensortalk.com)
+
+- [Medium-Org Mode integration](https://github.com/celadevra/org-medium)
