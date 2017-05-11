@@ -36,3 +36,5 @@
 - [Medium-Org Mode integration](https://github.com/celadevra/org-medium)
 
 - [ParlAI](https://github.com/facebookresearch/ParlAI)
+
+- [Cornell NLVR](http://lic.nlp.cornell.edu/nlvr/)
