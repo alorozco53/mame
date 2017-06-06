@@ -38,3 +38,5 @@
 - [ParlAI](https://github.com/facebookresearch/ParlAI)
 
 - [Cornell NLVR](http://lic.nlp.cornell.edu/nlvr/)
+
+- [Emacs ORG-mode manual](http://orgmode.org/manual/)
