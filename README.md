@@ -40,3 +40,5 @@
 - [Cornell NLVR](http://lic.nlp.cornell.edu/nlvr/)
 
 - [Emacs ORG-mode manual](http://orgmode.org/manual/)
+
+- [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://github.com/kailashahirwar/cheatsheets-ai)
