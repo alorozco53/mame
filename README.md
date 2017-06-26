@@ -42,3 +42,5 @@
 - [Emacs ORG-mode manual](http://orgmode.org/manual/)
 
 - [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://github.com/kailashahirwar/cheatsheets-ai)
+
+- [Berley Artificial Intelligence Research's blog (BAIR)](bair.berkeley.edu)
