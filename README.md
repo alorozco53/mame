@@ -46,3 +46,5 @@
 - [Berley Artificial Intelligence Research's blog (BAIR)](bair.berkeley.edu)
 
 - [Keras Visualization Toolkit](https://github.com/raghakot/keras-vis)
+
+- [AI Progress Measurement](https://www.eff.org/ai/metrics)
